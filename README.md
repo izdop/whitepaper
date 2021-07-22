@@ -16,4 +16,4 @@ By producing smart gadgets and hardware for homes, hotels, public places, school
 
 the goal is to establish an exclusive financial network for the users of this business around the world and to pay the profits of the projects to the investors.
 
-######All the project information could be checked in Whitepaper.pdf.
+###### All the project information could be checked in Whitepaper.pdf.
